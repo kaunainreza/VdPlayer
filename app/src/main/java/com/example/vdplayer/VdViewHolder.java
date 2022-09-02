@@ -18,4 +18,5 @@ public class VdViewHolder extends RecyclerView.ViewHolder {
         txtName = itemView.findViewById(R.id.txtName);
         cardView = itemView.findViewById(R.id.mainContainer);
     }
+    //Test Git1
 }
